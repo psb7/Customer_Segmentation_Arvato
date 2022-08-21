@@ -1,4 +1,4 @@
-# Identify Customer Segments Arvto
+# Identify Customer Segments - Arvato
 
 # Project Overview
 - In this project, I worked with real-life data provided to us by our Bertelsmann partners AZ Direct and Arvato Finance Solution. 
